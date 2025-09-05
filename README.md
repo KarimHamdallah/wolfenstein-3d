@@ -1,74 +1,52 @@
-# This is a personal project where I implement a Wolfenstein 3D-style game from scratch using C++ and SDL, without relying on any pre-built game engine.
+\# Wolfenstein 3D Clone (Raycasting from Scratch)
 
-# The main purpose of this project is to learn and deeply understand:
 
-# 
 
-# How raycasting works under the hood.
+This is a personal project where I implement a \*\*Wolfenstein 3D-style game\*\* from scratch using \*\*C++ and SDL\*\*, without relying on any pre-built game engine.
 
-# 
 
-# How a framebuffer is built and rendered.
 
-# 
+\## Project Goals
 
-# Writing a simple software rendering system.
+\- Understand how \*\*raycasting\*\* works internally.
 
-# 
+\- Learn how a \*\*framebuffer\*\* is created and rendered.
 
-# Handling inputs and building a proper game loop.
+\- Implement a minimal \*\*software rendering pipeline\*\*.
 
-# 
+\- Practice \*\*game loop\*\* structure and \*\*input handling\*\*.
 
-# 🎯 Project Goal
 
-# 
 
-# This is not just a clone of an old game — the goal is to understand the fundamentals that modern game engines and graphics systems are built on.
+\## Tech Stack
 
-# If you want to be a serious game developer, knowing these foundations is essential.
+\- C++17
 
-# 
+\- SDL3
 
-# 🛠️ Tech Stack
+\- stb\_image (for image loading)
 
-# 
 
-# C++17
 
-# 
+\## Screenshots
 
-# SDL3
+!\[Screenshot 1](images/1.png)
 
-# 
+!\[Screenshot 2](images/2.png)
 
-# stb\_image for image loading
 
-# 
 
-# 📷 Screenshots
+\## Related Course
 
-# 
+This project is also part of a course:  
 
-# Here are some screenshots from the project:
+\*\*"Learn Game Programming from Scratch – Raycasting \& Wolfenstein 3D"\*\*
 
-# 
 
-# 
 
-# 
+The course goes step by step through the same concepts used here, building everything from the ground up.  
 
-# 
+If you’re serious about starting game development with the right foundations, you might find it useful.
 
-# 📚 Related Course
 
-# 
-
-# This project is also part of a course I’m creating:
-
-# "Learn Game Programming from Scratch – Raycasting \& Wolfenstein 3D"
-
-# In the course, we go step by step through the same concepts used here, building them from the ground up in a structured and educational way.
-
-# If you’re serious about starting your journey in game development from the right foundations, this course is for you.
 
