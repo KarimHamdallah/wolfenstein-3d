@@ -32,5 +32,5 @@ This project is part of my journey through **retro game programming** and learni
 I also created a course explaining everything step by step — from scratch to a working Wolfenstein 3D clone.  
 
 👉 Check it out here: [Course Link](https://github.com/)  
-
+![Course](images/3.png)  
 ---
